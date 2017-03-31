@@ -1,6 +1,6 @@
 # LayoutStatusControl
 
-一个用户设置Layout不同状态的class
+一个用于设置Layout不同状态的class
 
 ![demo](./demo.gif)
 
@@ -95,7 +95,7 @@ lyControl.setErrorListener();
 更多使用方法,可以看这个例子[Example](./app/src/main/java/com/siyehua/layoutstatus/Main1Activity.java)
 
 ## 问题
-如果你有任何问题,你可以通过 [GitHub Issues](./issues)提交.
+如果你有任何问题,你可以通过 [GitHub Issues](https://github.com/siyehua/LayoutStatus/issues)提交.
 
 ## LICENSE
 ```
