@@ -95,7 +95,7 @@ lyControl.setErrorListener();
 更多使用方法,可以看这个例子[Example](./app/src/main/java/com/siyehua/layoutstatus/Main1Activity.java)
 
 ##问题
-如果你有任何问题,你可以通过 [GitHub Issues](./123)提交.
+如果你有任何问题,你可以通过 [GitHub Issues](./issues)提交.
 
 ##LICENSE
 ```
