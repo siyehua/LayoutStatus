@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 /**
  * A class control layout status.<br><br>
- * more information, you can <a href="http://baidu.com">click this</a>.<br><br>
+ * more information, you can <a href="https://github.com/siyehua/LayoutStatus">click this</a>.<br><br>
  * Created by siyehua on 2017/3/29.
  */
 public class LayoutStatusControl implements StatusI {
