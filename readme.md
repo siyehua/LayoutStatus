@@ -1,6 +1,6 @@
 # LayoutStatusControl
 
-[中文文档](./readme-ch.md)
+[中文文档](./readmech.md)
 
 A class used for control Layout status.
 
@@ -91,10 +91,10 @@ lyControl.setErrorListener();
 
 More info, you can see this [Example](./app/src/main/java/com/siyehua/layoutstatus/Main1Activity.java)
 
-##Bugs
-For bugs, feature requests, and discussion please use [GitHub Issues](./123).
+## Bugs
+For bugs, feature requests, and discussion please use [GitHub Issues](./issues).
 
-##LICENSE
+## LICENSE
 ```
 Copyright 2017 The LayoutStatusControl authors
 
