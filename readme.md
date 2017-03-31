@@ -1,6 +1,6 @@
 # LayoutStatusControl
 
-[中文文档](readmech.md)
+[中文文档](readme-ch.md)
 
 A class used for control Layout status.
 
