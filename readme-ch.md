@@ -11,7 +11,7 @@
  * 不会加深UI的层级,从而导致过度绘制,卡顿等问题
  * 可以自定义自己的布局样式
  * 可对布局样式设置监听
- * 可对任何View设置,不仅不局限与ListView or RecycleView
+ * 可对任何View设置,不仅局限于ListView or RecycleView
  * 自动继承被替换的View的属性,包括大小,位置,id(注意监听问题)等.
  * 不会破坏被替换的View与其他View之间的依赖关系.(特别是相对布局)
 
